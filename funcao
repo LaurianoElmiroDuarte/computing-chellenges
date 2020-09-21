@@ -1,0 +1,6 @@
+<?php
+
+function Seculo_Ano($ano)
+$seculo = ano/100 + 1;
+
+?>
