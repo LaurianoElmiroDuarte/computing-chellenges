@@ -1,3 +1,4 @@
+#case é usado para fazer vários testes.
 puts "Digite aqui o seu mês de nascimento"
 mes = gets.chomp.to_i
 
