@@ -1,4 +1,3 @@
-'''
 for i in range(0, 1000, 1):
 
     if i % 3 == 0 and i % 5 == 0:
@@ -12,8 +11,3 @@ for i in range(0, 1000, 1):
     
     else: 
         print(i)
-'''
-
-lista = [(0), "Lauriano", 7.5]
-for x in range(len(lista)):
-    print(x)
