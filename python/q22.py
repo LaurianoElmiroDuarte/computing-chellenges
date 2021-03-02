@@ -1,3 +1,5 @@
+#Orientação a objetos
+
 class NumFactory:
     def __init__(self, n):
         self.val = n
