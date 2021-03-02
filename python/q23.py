@@ -7,3 +7,4 @@ print_header.text = "some info"
 
 print_header("%d %s" %  \
 (print_header.category, print_header.text))
+
