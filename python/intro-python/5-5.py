@@ -5,3 +5,4 @@ x = 0
 while x <= 9:
     print((n+x)*3) 
     x = x + 1
+
