@@ -6,6 +6,6 @@ class child(parent):
     def __init__(self, param):
         self.v2 = param
 
-obj = child(11)
+obj = parent(11)
 
 print(obj)
