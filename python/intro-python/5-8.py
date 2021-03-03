@@ -11,5 +11,6 @@ while x <= y:
     print(x+x)
 
 
-while x >= y:
-    print(x+x)     
+while x >= y:    
+    x = x + x
+    
