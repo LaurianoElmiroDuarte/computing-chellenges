@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Reescreva o programa anterior para escrever os 10 primeiros múltiplos de 3
 n = 0
 x = 0

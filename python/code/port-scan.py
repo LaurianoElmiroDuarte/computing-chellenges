@@ -1,3 +1,4 @@
+#!/usr/bin/env python3 
 """
 Scanner de portas em Python 3.x
 Port Scanner

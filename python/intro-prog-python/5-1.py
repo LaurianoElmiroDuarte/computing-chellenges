@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Modifique o programa para exibir os numeros de 1 a 100.
 x = 0
 

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Modifique o programa anterior para imprimir de 1 até o número digitado pelo usuário,
 # mas, dessa vez, apensar os numeros ímpares.
 
